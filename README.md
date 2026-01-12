@@ -77,13 +77,13 @@ This page focuses on product performance.
 ## 🖼 Dashboard
 
 ### Sales Overview
-![Sales Overview](./Docs/sales_overview.png)
+![Sales_Overview](./Docs/Sales_Overview.png)
 
 ### Customer Analysis
-![Customer Analysis](./Docs/customer_analysis.png)
+![Customer_Analysis](./Docs/Customer_Analysis.png)
 
 ### Product Analysis
-![Product Analysis](./Docs/product_analysis.png)
+![Product_Analysis](./Docs/Product_Analysis.png)
 
 ---
 

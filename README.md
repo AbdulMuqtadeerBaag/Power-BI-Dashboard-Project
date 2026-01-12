@@ -34,7 +34,7 @@ The following datasets are used in this project:
 
 ## 📊 Dashboards Details
 
-### 1️⃣ Sales Overview Dashboard
+#### 1️⃣ Sales Overview Dashboard
 This page gives a high-level view of overall sales performance.
 - Total Sales  
 - Total Customers  
@@ -44,7 +44,7 @@ This page gives a high-level view of overall sales performance.
 
 ---
 
-### 2️⃣ Customer Analysis Dashboard
+#### 2️⃣ Customer Analysis Dashboard
 This page focuses on customer behavior and distribution.
 - Total customers  
 - Average sales per customer  
@@ -55,7 +55,7 @@ This page focuses on customer behavior and distribution.
 
 ---
 
-### 3️⃣ Product Analysis Dashboard
+#### 3️⃣ Product Analysis Dashboard
 This page focuses on product performance.
 - Total number of products  
 - Top 10 products by sales  
@@ -77,18 +77,19 @@ This page focuses on product performance.
 ## 🖼 Dashboard
 
 ### Sales Overview
-![Sales Overview](Docs/sales_overview.png)
+![Sales Overview](./Docs/sales_overview.png)
 
 ### Customer Analysis
-![Customer Analysis](Docs/customer_analysis.png)
+![Customer Analysis](./Docs/customer_analysis.png)
 
 ### Product Analysis
-![Product Analysis](Docs/product_analysis.png)
+![Product Analysis](./Docs/product_analysis.png)
 
 ---
 
 ## 📁 Project Structure
 
+```
 Power-BI-Dashboard-Project
 │
 ├── Datasets
@@ -106,6 +107,7 @@ Power-BI-Dashboard-Project
 │
 ├── LICENSE
 └── README.md
+```
 
 ---
 
